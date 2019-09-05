@@ -112,9 +112,7 @@ header ul {
 .photo {
   flex: auto;
   width: 30%;
-}
-
-.photo {
+  height:auto;
 padding-bottom: 40px;
 padding-right: 40px;
 }
