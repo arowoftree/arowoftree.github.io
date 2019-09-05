@@ -107,7 +107,6 @@ header ul {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
-  justify-content: stretch;
 }
 
 .photo {
