@@ -157,7 +157,7 @@ header ul {
   flex-wrap: wrap;
 }
 
-.photo {
+.photo img{
   flex: auto;
   width: 30%;
   height:auto;
