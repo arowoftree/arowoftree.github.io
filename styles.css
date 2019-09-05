@@ -113,6 +113,7 @@ header ul {
   flex: auto;
   width: 25%;
   height:auto;
+  align-self: flex-start;
 margin-bottom: 40px;
  margin-right: 40px;
 }
